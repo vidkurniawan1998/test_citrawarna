@@ -1,0 +1,4 @@
+How To Register User With Data Seeder To Login
+1.Open Data Seeder UserSeeder.php
+2.Use The Command "php artisan db:seed --class=UserSeeder"
+3.ENV Ada Di .env.example
